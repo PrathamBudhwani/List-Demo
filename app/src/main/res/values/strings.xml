@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <array name="contacts">
+        <item>Ram</item>
+        <item>raj</item>
+        <item>pratham</item>
+        <item>laxman</item>
+        <item>krishna</item>
+        <item>hanuman</item>
+        <item>shiva</item>
+        <item>bramha</item>
+        <item>vishnu</item>
+        <item>mata</item>
+        <item>ganesh</item>
+        <item>parvati</item>
+        <item>bharat</item>
+        <item>arjun</item>
+        <item>bheem</item>
+        <item>ravan</item>
+    </array>
+    <array name="langauages">
+        <item>C</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+    </array>
+    <array name="ids">
+        <item>Aadhar</item>
+        <item>Pan</item>
+        <item>10th Marsksheet</item>
+        <item>12th Marsksheet</item>
+        <item>Driving License</item>
+        <item>Passport</item>
+    </array>
+</resources>
